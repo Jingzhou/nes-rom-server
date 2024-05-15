@@ -1,0 +1,19 @@
+{
+  "name": "nes-rom-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "node-dev src/main.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "multiparty": "^4.2.3"
+  }
+}

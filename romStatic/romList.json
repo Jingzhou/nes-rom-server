@@ -1,0 +1,114 @@
+[
+	{
+		"code": "koudaiguaishou2",
+		"name": "口袋怪兽2"
+	},
+	{
+		"code": "koudaiguaishoulv",
+		"name": "口袋怪兽绿"
+	},
+	{
+		"code": "rexuewuyu",
+		"name": "热血物语"
+	},
+	{
+		"code": "rexuelanqiu",
+		"name": "热血篮球"
+	},
+	{
+		"code": "songshu1",
+		"name": "松鼠大作战"
+	},
+	{
+		"code": "songshu2",
+		"name": "松鼠大作战2"
+	},
+	{
+		"code": "BattleCity",
+		"name": "坦克大战"
+	},
+	{
+		"code": "Bomberman",
+		"name": "炸弹人"
+	},
+	{
+		"code": "BubbleBobble",
+		"name": "泡泡龙"
+	},
+	{
+		"code": "CircusCharlie",
+		"name": "马戏团"
+	},
+	{
+		"code": "Contra1F",
+		"name": "魂斗罗"
+	},
+	{
+		"code": "CrossFire",
+		"name": "脱狱"
+	},
+	{
+		"code": "DoubleDragon1",
+		"name": "双截龙1"
+	},
+	{
+		"code": "DoubleDragon2",
+		"name": "双截龙2"
+	},
+	{
+		"code": "DrMario",
+		"name": "马里奥医生"
+	},
+	{
+		"code": "Excitebike",
+		"name": "越野机车"
+	},
+	{
+		"code": "IceClimber",
+		"name": "敲冰块"
+	},
+	{
+		"code": "Kage",
+		"name": "影之传说"
+	},
+	{
+		"code": "MachRider",
+		"name": "摩托车大赛"
+	},
+	{
+		"code": "Mappy",
+		"name": "快乐猫"
+	},
+	{
+		"code": "Race",
+		"name": "F1赛车"
+	},
+	{
+		"code": "SpartanX",
+		"name": "成龙踢馆"
+	},
+	{
+		"code": "SuperMarioBros",
+		"name": "超级马里奥"
+	},
+	{
+		"code": "TakahashiMeijinnoBoukenShima",
+		"name": "冒险岛"
+	},
+	{
+		"code": "Tennis",
+		"name": "网球"
+	},
+	{
+		"code": "TwinBee",
+		"name": "兵蜂"
+	},
+	{
+		"code": "YieArKungFu",
+		"name": "功夫"
+	},
+	{
+		"code": "ZhongGuoXiangQi",
+		"name": "中国象棋"
+	}
+]
