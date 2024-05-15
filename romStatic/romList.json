@@ -8,8 +8,20 @@
 		"name": "口袋怪兽绿"
 	},
 	{
+		"code": "rexuegedou",
+		"name": "热血格斗"
+	},
+	{
+		"code": "rexuexinjilu",
+		"name": "热血新纪录"
+	},
+	{
 		"code": "rexuewuyu",
 		"name": "热血物语"
+	},
+	{
+		"code": "rexuezuqiu",
+		"name": "热血足球"
 	},
 	{
 		"code": "rexuelanqiu",
